@@ -1,1 +1,1 @@
-"# Pr ctica Copilot" 
+"# Practica Copilot"
